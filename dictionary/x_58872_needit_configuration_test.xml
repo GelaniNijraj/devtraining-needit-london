@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Configuration Test" max_length="40" name="x_58872_needit_configuration_test" type="collection">
+        <element label="test" max_length="255" name="test" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Test List" max_length="1024" name="u_glide_list_2" reference="wf_condition" type="glide_list"/>
+        <element label="Test Name Value Pairs" max_length="4000" name="u_simple_name_values_1" type="simple_name_values"/>
+    </element>
+</database>
