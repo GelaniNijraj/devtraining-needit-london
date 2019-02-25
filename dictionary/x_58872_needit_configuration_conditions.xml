@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Configuration Conditions" max_length="40" name="x_58872_needit_configuration_conditions" type="collection">
+    <element label="Configuration Conditions Renamed" max_length="40" name="x_58872_needit_configuration_conditions" type="collection">
         <element label="key" max_length="40" name="key" type="string"/>
         <element choice="1" label="operation" max_length="40" name="operation" type="choice">
             <choice/>
